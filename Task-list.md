@@ -8,5 +8,5 @@
 >Task-2 Conditional Statements
 
   - [x] Write a function that checks if a number is even or odd.
-  - [ ] Create a program that asks the user for their age and determines if they are eligible to vote (18+).
+  - [x] Create a program that asks the user for their age and determines if they are eligible to vote (18+).
 

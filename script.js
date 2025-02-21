@@ -21,12 +21,20 @@
 
                 // TASK-2
 
-function EvenCheck(number){
-    if (number % 2 === 0){
-        console.log(`${number} is even number `);
-    }else{
-        console.log(`${number} is odd number`);
-    }
-}
-EvenCheck(11);
+// function EvenCheck(number){
+//     if (number % 2 === 0){
+//         console.log(`${number} is even number `);
+//     }else{
+//         console.log(`${number} is odd number`);
+//     }
+// }
+// EvenCheck(11);
 
+
+let age = 18;
+
+if (age >= 18) {
+    console.log(`Yes! you can Vote`);
+}else if (age < 18) {
+    console.log(`Sorry! you can't vote`);
+}
