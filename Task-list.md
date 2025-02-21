@@ -10,3 +10,9 @@
   - [x] Write a function that checks if a number is even or odd.
   - [x] Create a program that asks the user for their age and determines if they are eligible to vote (18+).
 
+>Task-3 Loop
+
+  - [x] Print numbers from 1 to 100 using a loop.
+* Print all even numbers between 1 and 50.
+
+

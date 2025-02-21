@@ -30,11 +30,18 @@
 // }
 // EvenCheck(11);
 
+// let age = 18;
 
-let age = 18;
+// if (age >= 18) {
+//     console.log(`Yes! you can Vote`);
+// }else if (age < 18) {
+//     console.log(`Sorry! you can't vote`);
+// }
 
-if (age >= 18) {
-    console.log(`Yes! you can Vote`);
-}else if (age < 18) {
-    console.log(`Sorry! you can't vote`);
+
+                // TASK-3
+
+console.log("For Loop");
+for (let i = 1; i <= 100; i++) {
+    console.log(i);
 }
