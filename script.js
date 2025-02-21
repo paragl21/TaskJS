@@ -46,7 +46,14 @@
 //     console.log(i);
 // }
 
-console.log("Even to 50");
-for (let i = 0; i <= 50; i +=2) {
-    console.log(i);
+// console.log("Even to 50");
+// for (let i = 0; i <= 50; i +=2) {
+//     console.log(i);
+// }
+
+                // TASK-4
+
+function square(num) {
+    return num * num;
 }
+console.log(square(2));
