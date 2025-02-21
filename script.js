@@ -41,7 +41,12 @@
 
                 // TASK-3
 
-console.log("For Loop");
-for (let i = 1; i <= 100; i++) {
+// console.log("For Loop");
+// for (let i = 1; i <= 100; i++) {
+//     console.log(i);
+// }
+
+console.log("Even to 50");
+for (let i = 0; i <= 50; i +=2) {
     console.log(i);
 }

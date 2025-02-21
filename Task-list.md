@@ -13,6 +13,6 @@
 >Task-3 Loop
 
   - [x] Print numbers from 1 to 100 using a loop.
-* Print all even numbers between 1 and 50.
+- [x] Print all even numbers between 1 and 50.
 
 
