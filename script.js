@@ -1,3 +1,4 @@
+                // TASK-1
 // Declare variables of different data types
 // let String = "Hello, World!";  
 // let Number = 42;               
@@ -7,14 +8,25 @@
 
 //swap two Variables
 
-let a = 10;
-let b = 20;
-console.log("before");
-console.log("a =",a,"b =",b);
+// let a = 10;
+// let b = 20;
+// console.log("before");
+// console.log("a =",a,"b =",b);
 
-a = a + b;
-b = a - b;
-a = a - b;
-console.log("after");
-console.log("a =",a,"b =",b);
+// a = a + b;
+// b = a - b;
+// a = a - b;
+// console.log("after");
+// console.log("a =",a,"b =",b);
+
+                // TASK-2
+
+function EvenCheck(number){
+    if (number % 2 === 0){
+        console.log(`${number} is even number `);
+    }else{
+        console.log(`${number} is odd number`);
+    }
+}
+EvenCheck(11);
 
